@@ -1,0 +1,9 @@
+commonLabels:
+  app: kustomize-nginx
+
+commonAnnotations:
+  mylabel: kustomization-test
+
+resources:
+  - nginx-deployment.yaml
+
