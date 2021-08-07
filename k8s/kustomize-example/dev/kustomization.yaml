@@ -5,3 +5,4 @@ patchesStrategicMerge:
   - patch.yaml
 
 namePrefix: dev-
+namespace: in-my-space

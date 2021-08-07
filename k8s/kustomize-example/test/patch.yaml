@@ -4,3 +4,5 @@ metadata:
   name: nginx
 spec:
   replicas: 5
+
+
